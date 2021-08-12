@@ -7,6 +7,10 @@
 - **and** store the image a a PostgreSQL DB
 - **and** retrieve and display the image on an HTML page
 
+## Database
+
+The database directory has a shell script that will automatically create a `thing` database with a `thing` table for your use.
+
 ## Required steps
 
 1. In your `pom.xml` file add the commons-fileupload dependency
