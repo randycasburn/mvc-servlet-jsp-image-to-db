@@ -1,4 +1,4 @@
-# Store Images in PostGreSQL
+# Store Images in PostGreSQL (Spring MVC Servlet)
 
 ## User Story
 
